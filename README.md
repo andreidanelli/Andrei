@@ -12,7 +12,7 @@ Graduando em Ciência da Computação pela Universidade Federal da Fronteira Sul
 -  🖥️
 
 ### Linguagens e Ferramentas:
-[![](https://img.icons8.com/color/50/000000/javascript--v1.png{maxwidth=100})]
+[![](https://img.icons8.com/color/50/000000/javascript--v1.png)]
 
 
 
