@@ -20,6 +20,7 @@ Graduando em Ciência da Computação pela Universidade Federal da Fronteira Sul
 	<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-1572B6?logo=postgresql&logoColor=white&style=flat"/>
 	<img alt="Delphi" src="https://img.shields.io/badge/Delphi-F40D12?logo=delphi&logoColor=white&style=flat"/>
 	<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat"/>
+	<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat"/>
 	<img alt="VisualStudio" src="https://img.shields.io/badge/Visual Studio Code-1572B6?logo=visualstudio&logoColor=white&style=flat"/>
 </p>
 
