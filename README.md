@@ -18,6 +18,7 @@ Graduando em Ciência da Computação pela Universidade Federal da Fronteira Sul
 	<img alt="Git" src="https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=white&style=flat"/>
 	<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat"/>
 	<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-1572B6?logo=postgresql&logoColor=white&style=flat"/>
+	<img alt="VisualStudio" src="https://img.shields.io/badge/Visual Studio-1572B6?logo=visualstudio&logoColor=white&style=flat"/>
 </p>
 
 ### Redes Sociais:
