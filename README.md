@@ -16,7 +16,11 @@ Graduando em Ciência da Computação pela Universidade Federal da Fronteira Sul
 
 [![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=HTML5&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white)]()
-
+<p align="center">
+<a href="https://github.com/simple-icons/simple-icons/actions?query=workflow%3AVerify+branch%3Adevelop"><img src="https://img.shields.io/github/workflow/status/simple-icons/simple-icons/Verify/develop?logo=github" alt="Build status" /></a>
+<a href="https://www.npmjs.com/package/simple-icons"><img src="https://img.shields.io/npm/v/simple-icons.svg?logo=npm" alt="NPM version" /></a>
+<a href="https://packagist.org/packages/simple-icons/simple-icons"><img src="https://img.shields.io/packagist/v/simple-icons/simple-icons?logo=packagist&logoColor=white" alt="Build status" /></a>
+</p>
 
 ### Redes Sociais:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrei-danelli-a884141a4/)](https://www.linkedin.com/in/andrei-danelli-a884141a4/)
