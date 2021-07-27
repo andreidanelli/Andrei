@@ -17,7 +17,7 @@ Graduando em Ciência da Computação pela Universidade Federal da Fronteira Sul
 [![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=HTML5&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white)]()
 <p>
-<a href="https://github.com/simple-icons/simple-icons/actions?query=workflow%3AVerify+branch%3Adevelop"><img src="https://img.shields.io/github/workflow/status/simple-icons/simple-icons/Verify/develop?logo=github" alt="Build status" /></a>
+<a href="https://github.com/simple-icons/simple-icons/actions?query=workflow%3AVerify+branch%3Adevelop"></a>
 </p>
 
 ### Redes Sociais:
