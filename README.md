@@ -12,7 +12,7 @@ Graduando em Ciência da Computação pela Universidade Federal da Fronteira Sul
 -  🖥️
 
 ### Linguagens e Ferramentas:
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.ico" width="30"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.ico" width="30"> <img src="https://img.icons8.com/color/48/000000/css3.png" width="30"> <img src="https://img.icons8.com/color/48/000000/git.png" width="30"> <img src="https://img.icons8.com/color/48/000000/console.png" width="30"> <img src="https://img.icons8.com/color/48/000000/github--v1.png" width="30"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="30"> <img src="https://img.icons8.com/color/48/000000/delphi-ide.png" width="30"> <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="30"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="30">
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.ico" width="30"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.ico" width="30"> <img src="https://img.icons8.com/color/48/000000/css3.png" width="30"> <img src="https://img.icons8.com/color/48/000000/git.png" width="30"> <img src="https://img.icons8.com/color/48/000000/console.png" width="30"> <img src="https://img.icons8.com/color/48/000000/github--v1.png" width="30"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="30"> <img src="https://img.icons8.com/color/48/000000/delphi-ide.png" width="30"> <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="30"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="30"> <img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="30">
 
 
 ### Redes Sociais:
