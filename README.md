@@ -8,6 +8,7 @@
 
 ### Hellooo World! Bem vindo ao meu perfil 👏🎊🎉
 
+## Sobre 
 Meu nome é Andrei Danelli e sou entusiasta em tecnologia da informação. Possuo alguns conhecimentos e experiências
 nas áreas de infraestrutura, suporte e desenvolvimento de softwares. Atualmente trabalhando como Analista de TI.
 Graduando em Ciência da Computação pela Universidade Federal da Fronteira Sul.
