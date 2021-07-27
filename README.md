@@ -23,7 +23,7 @@ Graduando em Ciência da Computação pela Universidade Federal da Fronteira Sul
 
 **Sistemas Operacionais Familiarizado:**
 <p>
-	<img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white&style=flat"/>
+	<img alt="CentOS" src="https://img.shields.io/badge/CentOS-262577?logo=linux&logoColor=white&style=flat"/>
 	<img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat"/>
 </p>
 
