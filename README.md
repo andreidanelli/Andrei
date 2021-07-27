@@ -26,4 +26,4 @@ Graduando em Ciência da Computação pela Universidade Federal da Fronteira Sul
 
 **Redes Sociais:**
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrei-danelli-a884141a4/)](https://www.linkedin.com/in/andrei-danelli-a884141a4/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-gray?style=flat-square&logo=Instagram&LogoColor=white&link=https://www.instagram.com/_andreidanelli_/)](https://www.instagram.com/_andreidanelli_/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-7952B3?style=flat-square&logo=Instagram&LogoColor=white&link=https://www.instagram.com/_andreidanelli_/)](https://www.instagram.com/_andreidanelli_/)
