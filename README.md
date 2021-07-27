@@ -12,7 +12,9 @@ Graduando em Ciência da Computação pela Universidade Federal da Fronteira Sul
 -  🖥️
 
 ### Linguagens e Ferramentas:
-[![javascript](https://img.icons8.com/color/48/000000/javascript--v2.png)]
+[!(https://img.icons8.com/color/50/000000/javascript--v1.png)]
+
+
 
 ### Redes Sociais:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrei-danelli-a884141a4/)](https://www.linkedin.com/in/andrei-danelli-a884141a4/)
