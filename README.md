@@ -16,7 +16,7 @@ Graduando em Ciência da Computação pela Universidade Federal da Fronteira Sul
 
 **have worked in:**
 <p>
-  <img alt="PostgreSQL" src=""https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat"/>
 </p>
 
 ### Redes Sociais:
