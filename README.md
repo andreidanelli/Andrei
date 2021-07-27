@@ -16,7 +16,6 @@ Graduando em Ciência da Computação pela Universidade Federal da Fronteira Sul
 
 [![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=HTML5&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white)]()
-[![teste](https://img.shields.io/badge/HTML5-orange?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle)]()
 
 
 ### Redes Sociais:
