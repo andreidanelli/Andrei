@@ -13,7 +13,7 @@ Graduando em Ciência da Computação pela Universidade Federal da Fronteira Sul
 
 ### Linguagens e Ferramentas:
 [![](https://img.icons8.com/color/50/000000/javascript--v1.png)]
-![Logo do R](http://developer.r-project.org/Logo/Rlogo-5.png)
+![Logo do R](http://developer.r-project.org/Logo/Rlogo-5.png {width=40px height=40px})
 
 - [x] Finish my changes
 
