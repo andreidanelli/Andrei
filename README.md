@@ -1,4 +1,4 @@
-# Andrei Danelli  👨‍💻:
+# Andrei Danelli  👨‍💻
 
 
 ### Redes Sociais
