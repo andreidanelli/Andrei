@@ -31,7 +31,3 @@ Graduando em Ciência da Computação pela Universidade Federal da Fronteira Sul
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrei-danelli-a884141a4/)](https://www.linkedin.com/in/andrei-danelli-a884141a4/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e1306c?style=flat-square&labelColor=e1306c&logo=instagram&logoColor=white&link=https://instagram.com/_andreidanelli_/)](https://www.instagram.com/_andreidanelli_/)
-
-**Informações Adicionais:**
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreidanelli&theme=vue-dark)
