@@ -14,7 +14,24 @@
 	
 ---	
 	
-</center>
+</center>	
+	
+<img align='left' height='220' style="margin-right:20px" src='assets/dev.svg' alt='Mudar imagem'>
+
+```tsx
+import React from "react";
+
+const Profile = () => {
+  return {
+   name: "Andrei",
+   nick: "andreidanelli",
+   gender: "Male"
+   hobbies: ["Coffe", "Code", "Music"],
+ }
+};
+
+export default Profile;
+```
 <div>
 	<img align="center" alt="Andrei-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
 	<img align="center" alt="Andrei-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
