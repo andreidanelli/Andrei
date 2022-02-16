@@ -1,36 +1,37 @@
-# Hello World! 👨‍💻
+<h1 align="center">Saudações!!! Eu sou Andrei Danelli 🇧🇷</h1>
 
-### Olá, seja bem vindo ao meu GitHub 👏🎊🎉
+<div>
+	<img align='right' height='160' src='assets/certificate.svg' alt='Mudar imagem'>
 
-Meu nome é Andrei Danelli e sou entusiasta em tecnologia da informação. Possuo alguns conhecimentos e experiências
-nas áreas de infraestrutura, suporte e desenvolvimento de softwares. Atualmente trabalhando como Analista de TI.
-Graduando em Ciência da Computação pela Universidade Federal da Fronteira Sul.
+	:mortar_board:Estudante de Ciência da Computação na Universidade Federal da Fronteira Sul.
+<div>
+	<img align="center" alt="Andrei-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+	<img align="center" alt="Andrei-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+	<img align="center" alt="Andrei-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+	<img align="center" alt="Andrei-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+	<img align="center" alt="Andrei-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+	<img align="center" alt="Andrei-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+	<img align="center" alt="Andrei-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+	<img align="center" alt="Andrei-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"><br>
+	<br>
+	<img align="center" alt="Andrei-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+	<img align="center" alt="Andrei-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+	<img align="center" alt="Andrei-SpringBoot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+	<img align="center" alt="Andrei-PhotoShop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+	<img align="center" alt="Andrei-Wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
+	<img align="center" alt="Andrei-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+	<img align="center" alt="Andrei-Centos" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg">
+	<img align="center" alt="Andrei-Centos" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+</div>
 
-**Linguagens e Ferramentas:**
-<p>
-	<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat"/>
-	<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat"/>
-	<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat"/>
-	<img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat"/>
-	<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat"/>
-	<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-1572B6?logo=postgresql&logoColor=white&style=flat"/>
-	<img alt="Delphi" src="https://img.shields.io/badge/Delphi-F40D12?logo=delphi&logoColor=white&style=flat"/>
-	<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat"/>
-	<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat"/>
-	<img alt="VisualStudio" src="https://img.shields.io/badge/Visual Studio Code-1572B6?logo=visualstudio&logoColor=white&style=flat"/>
-	<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white&style=flat"/>
-	--
-	<img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-</p>
-
-**Sistemas Operacionais Familiarizado:**
-<p>
-	<img alt="CentOS" src="https://img.shields.io/badge/CentOS-262577?logo=linux&logoColor=white&style=flat"/>
-	<img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat"/>
-</p>
+#
 
 **Redes Sociais:**
 
 [![Linkedin Badge](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/andreidanelli)](https://www.linkedin.com/in/andreidanelli)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/andreidanelli/)](https://www.instagram.com/andreidanelli/)
-[![WEBSITE Badge](https://img.shields.io/badge/WEBSITE-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&link=https://andreidanelli.github.io/)](https://andreidanelli.github.io/)
+[![Website Badge](https://img.shields.io/badge/WEBSITE-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&link=https://andreidanelli.github.io/)](https://andreidanelli.github.io/)
+
+#
+**
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=MyPageVisitors)
