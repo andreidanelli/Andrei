@@ -1,9 +1,20 @@
 <h1 align="center">Saudações!!! Eu sou Andrei Danelli 🇧🇷</h1>
 
 <div>
-	<img align='right' height='160' src='assets/certificate.svg' alt='Mudar imagem'>
+	<img align='right' height='160' src='assets/certified.svg' alt='Mudar imagem'>
 
-	:mortar_board:Estudante de Ciência da Computação na Universidade Federal da Fronteira Sul.
+- 🎓 Estudante de Ciência da Computação na Universidade Federal da Fronteira Sul.
+- 🖥️ Analista de Tecnologia da Informação.
+- 📬 Você pode me encontrar nos links abaixo.
+<center>
+	
+[![Linkedin Badge](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/andreidanelli)](https://www.linkedin.com/in/andreidanelli)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/andreidanelli/)](https://www.instagram.com/andreidanelli/)
+[![Website Badge](https://img.shields.io/badge/WEBSITE-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&link=https://andreidanelli.github.io/)](https://andreidanelli.github.io/)
+	
+---	
+	
+</center>
 <div>
 	<img align="center" alt="Andrei-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
 	<img align="center" alt="Andrei-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -28,9 +39,7 @@
 
 **Redes Sociais:**
 
-[![Linkedin Badge](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/andreidanelli)](https://www.linkedin.com/in/andreidanelli)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/andreidanelli/)](https://www.instagram.com/andreidanelli/)
-[![Website Badge](https://img.shields.io/badge/WEBSITE-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&link=https://andreidanelli.github.io/)](https://andreidanelli.github.io/)
+
 
 #
 **
