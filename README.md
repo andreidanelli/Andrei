@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=andreidanelli.visitor-badge&left_text=MyPageVisitors)
+![](https://api.visitorbadge.io/api/VisitorHit?user=andreidanelli&repo=github-visitors-badge&countColor=%237B1E7A)
 
 <h1 align="center">Saudações!!! Eu sou Andrei Danelli 🇧🇷</h1>
 
