@@ -31,6 +31,6 @@ Graduando em Ciência da Computação pela Universidade Federal da Fronteira Sul
 
 **Redes Sociais:**
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreidanelli)](https://www.linkedin.com/in/andreidanelli)
+[![Linkedin Badge](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/andreidanelli)](https://www.linkedin.com/in/andreidanelli)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/andreidanelli/)](https://www.instagram.com/andreidanelli/)
 
