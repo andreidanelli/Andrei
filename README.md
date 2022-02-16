@@ -11,7 +11,7 @@
 [![Linkedin Badge](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/andreidanelli)](https://www.linkedin.com/in/andreidanelli)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/andreidanelli/)](https://www.instagram.com/andreidanelli/)
 [![Website Badge](https://img.shields.io/badge/WEBSITE-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&link=https://andreidanelli.github.io/)](https://andreidanelli.github.io/)
-	
+
 ---	
 	
 </center>	
@@ -32,7 +32,25 @@ const Profile = () => {
 
 export default Profile;
 ```
-<div>
+	
+<img align='right' height='170' style="margin-left:20px" src='assets/developed.svg' alt='Mudar imagem'>
+	
+```tsx
+(function repeat() {
+  eat();
+  sleep();
+  code();
+  learn();
+  make();
+  repeat();
+})();
+```
+</div>
+	
+#
+	
+***Tecnologias:***
+<div align="center">
 	<img align="center" alt="Andrei-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
 	<img align="center" alt="Andrei-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 	<img align="center" alt="Andrei-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
@@ -40,8 +58,7 @@ export default Profile;
 	<img align="center" alt="Andrei-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 	<img align="center" alt="Andrei-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 	<img align="center" alt="Andrei-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-	<img align="center" alt="Andrei-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"><br>
-	<br>
+	<img align="center" alt="Andrei-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
 	<img align="center" alt="Andrei-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 	<img align="center" alt="Andrei-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 	<img align="center" alt="Andrei-SpringBoot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
@@ -51,13 +68,3 @@ export default Profile;
 	<img align="center" alt="Andrei-Centos" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg">
 	<img align="center" alt="Andrei-Centos" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
 </div>
-
-#
-
-**Redes Sociais:**
-
-
-
-#
-**
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=MyPageVisitors)
