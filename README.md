@@ -1,3 +1,5 @@
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=andreidanelli.visitor-badge&left_text=MyPageVisitors)
+
 <h1 align="center">Saudações!!! Eu sou Andrei Danelli 🇧🇷</h1>
 
 <div>
@@ -68,3 +70,4 @@ export default Profile;
 	<img align="center" alt="Andrei-Centos" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg">
 	<img align="center" alt="Andrei-Centos" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
 </div>
+
