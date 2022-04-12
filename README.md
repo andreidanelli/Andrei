@@ -6,7 +6,7 @@
 	<img align='right' height='160' src='assets/certified.svg' alt='Mudar imagem'>
 
 - 🎓 Estudante de Ciência da Computação na Universidade Federal da Fronteira Sul.
-- 🖥️ Analista de Tecnologia da Informação.
+- 🖥️ Analista de Sistemas Jr.
 - 📬 Você pode me encontrar nos links abaixo.
 <center>
 	
