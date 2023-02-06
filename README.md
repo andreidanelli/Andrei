@@ -34,19 +34,6 @@ const Profile = () => {
 
 export default Profile;
 ```
-	
-<img align='right' height='170' style="margin-left:20px" src='assets/developed.svg' alt='Mudar imagem'>
-	
-```tsx
-(function repeat() {
-  eat();
-  sleep();
-  code();
-  learn();
-  make();
-  repeat();
-})();
-```
 </div>
 	
 #
